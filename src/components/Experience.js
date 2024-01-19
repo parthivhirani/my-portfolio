@@ -10,7 +10,7 @@ const Experience = () => {
                 <h3>Evision IT Solutions</h3>
                 <span className='bar'></span>
                 <p><strong>Role:</strong> Software Engineer</p>
-                <p><strong>Stack:</strong> .NET, Sitecore</p>
+                <p><strong>Stack:</strong> .NET, Sitecore CMS</p>
                 <p><strong>Duration:</strong> September 2023 to current</p>
             </div>
 
@@ -27,7 +27,7 @@ const Experience = () => {
                 <span className='bar'></span>
                 <p><strong>Role:</strong> Intern</p>
                 <p><strong>Stack:</strong> React JS, .NET</p>
-                <p><strong>Duration:</strong> 20 June to 8 July 2022</p>
+                <p><strong>Duration:</strong> June 2022 to July 2022</p>
             </div>
         </div>
         <br /><br /><br />

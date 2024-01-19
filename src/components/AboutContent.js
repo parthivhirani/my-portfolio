@@ -10,7 +10,9 @@ const AboutContent = () => {
         <div className='new-class'>
             <div className='left'>
                 <h1>Who am I?</h1>
-                <p>I have completed my Bachelor of Engineering in Computer Science from Marwadi Education Foundation with 9.46 CPI. Currently I am exploring Dot Net technology and working as Trainee Engineer at Simform Solutions.</p>
+                <p>I have completed my Bachelor of Engineering in Computer Science from Marwadi Education Foundation 
+                    with 9.46 CPI. Currently I am exploring Dot Net technology and working as Software Engineer at 
+                    Evision IT Solutions.</p>
                 <Link to='/contact'>
                     <button className='btn'>Contact</button>
                 </Link>

@@ -12,7 +12,7 @@ const Education = () => {
                 <p>Course: BE Computer</p>
                 <p>Institute: Marwadi University</p>
                 <p>Passing Year: 2023</p>
-                <p>Grade: 9.46 (CPI)</p>
+                <p>Grade: 9.46 CPI</p>
                 {/* <br />
                 <a href='https://drive.google.com/drive/folders/1Nb5iAa_G6QfFLC8F3bFT_ukwXSYEMac3' className='edu-btn' target='_blank'>View</a>
                 <p><br /></p> */}
