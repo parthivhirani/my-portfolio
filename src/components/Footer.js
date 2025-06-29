@@ -1,6 +1,5 @@
 import './FooterStyles.css';
-import { FaHome, FaPhone, FaMailBulk, FaLinkedin, FaTwitter, FaGithub, FaMedium, FaMediumM, FaPage4, FaPaperclip, FaFile } from 'react-icons/fa';
-import { Link } from 'react-router-dom';
+import { FaHome, FaMailBulk, FaLinkedin, FaTwitter, FaGithub, FaMediumM, FaFile } from 'react-icons/fa';
 
 import React from 'react'
 
