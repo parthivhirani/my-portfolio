@@ -12,7 +12,7 @@ const footer = () => {
                 <div className='location'>
                     <FaHome size={20} style={{color:'#fff', marginRight:'2rem'}}/>
                     <div>
-                        <p>Rajkot, Gujarat, India.</p>
+                        <p>Ahmedabad, Gujarat, India.</p>
                     </div>
                 </div>
 
@@ -28,7 +28,7 @@ const footer = () => {
             </div>
             <div className='right'>
                 <h4>About Me</h4>
-                <p>Computer Engineer. Coding Enthusiastic. Always ready to learn new technologies.</p>
+                <p>Software Engineer. Coding Enthusiastic. Always ready to learn new technologies.</p>
                 <div className='social'>
                 <a href='https://www.linkedin.com/in/parthiv-hirani-61a6421b8' target='_blank'>
                 <FaLinkedin size={20} style={{color:'#fff', marginRight:'2rem'}}/></a>

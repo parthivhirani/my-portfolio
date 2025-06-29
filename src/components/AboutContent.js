@@ -1,6 +1,5 @@
 import './AboutContentStyles.css'
 import { Link } from 'react-router-dom'
-//import Six from '../images/six.jpg'
 
 import React from 'react'
 
@@ -11,19 +10,12 @@ const AboutContent = () => {
             <div className='left'>
                 <h1>Who am I?</h1>
                 <p>I have completed my Bachelor of Engineering in Computer Science from Marwadi Education Foundation 
-                    with 9.46 CPI. Currently I am exploring Dot Net technology and working as Software Engineer at 
-                    Evision IT Solutions.</p>
+                    with 9.46 CPI. I am having total 2.5 years of working experience in .Net technologies. 
+                    Currently, I am working as a Software Engineer at Maruti Techlabs.</p>
                 <Link to='/contact'>
                     <button className='btn'>Contact</button>
                 </Link>
             </div>
-            {/* <div className='right'>
-                <div className='img-container'>
-                    <div className='img-stack top'>
-                        <img src={Six} className='img' alt='self'/>
-                    </div>
-                </div>
-            </div> */}
         </div>
         <div className='about-new'>
             <div className='left-new'>
